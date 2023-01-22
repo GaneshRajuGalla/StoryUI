@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "storyui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tiskender2/StoryUI.git",
+      "state" : {
+        "revision" : "0e423861443fcf90435b0fc17b612e354e58c07d",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
